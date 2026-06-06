@@ -1,4 +1,4 @@
-## 25. OTA Sistem Mimarisi, Protokol Yöntemleri ve Veri Bütünlüğü
+## OTA Sistem Mimarisi, Protokol Yöntemleri ve Veri Bütünlüğü
 
 Projede uygulanan kablosuz bellenim güncelleme (OTA) senaryosu, düşük güç tüketen IoT ağlarının kısıtlarına göre optimize edilmiştir. Aşağıda uygulanan yöntemler, paket analizi ve alınan hata tolerans (robustness) önlemleri detaylandırılmıştır.
 
